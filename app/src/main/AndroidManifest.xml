@@ -18,6 +18,9 @@
         </activity>
         <activity android:name=".basetabuse.DynamicTabLayoutActivity"/>
         <activity android:name=".basetabuse.StaticTabLayoutActivity"/>
+        <activity android:name=".basetabuse.HorizontalScrollActivity"/>
+        <activity android:name=".basetabuse.TabFragmentViewPagerActivity"/>
+        <activity android:name=".basetabuse.TFVPBottomActivity"/>
     </application>
 
 </manifest>
